@@ -14,7 +14,7 @@ function App() {
         <Form />
       </div>
       <div className="right-panel">
-        <img src={require("logo.png")} />
+        {/* <img src={require("logo.png")} /> */}
       </div>
       </div>
     </div>
