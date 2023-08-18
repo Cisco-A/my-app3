@@ -12,7 +12,7 @@ export default function Form() {
         <button type="submit" className="login2">Login</button>
       </form>
 
-      <a href="#">Forgot username or password?</a>
+      <a href="#" className="restore">Forgot username or password?</a>
       <p>Don't have an account? <a href="#">Sign up</a></p>
     </div>
   );
